@@ -69,10 +69,10 @@ A classe `Membro` armazena as informações de um membro da equipe, incluindo no
 
 Ao rodar o sistema, será exibido um menu com as seguintes opções:
 
------ MENU ----- 
-1 - Cadastrar Projeto 
-2 - Adicionar Tarefa a um Projeto 
-3 - Adicionar Membro a uma Tarefa 
-4 - Listar Projetos 
-5 - Mostrar Projeto específico (ID) 
+----- MENU -----   
+1 - Cadastrar Projeto   
+2 - Adicionar Tarefa a um Projeto   
+3 - Adicionar Membro a uma Tarefa   
+4 - Listar Projetos   
+5 - Mostrar Projeto específico (ID)   
 6 - Sair
